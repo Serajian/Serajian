@@ -1,12 +1,17 @@
 ### Hi there 👋, my name is Mohsen Serajian
-A passionate frontend developer from Iran
-
-- 📫 How to reach me: serajian.mohsen@gmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/serajian)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](@mohsenserajian)  
+<b>A passionate frontend developer from Iran</b>
 
 [![](https://visitcount.itsvg.in/api?id=serajian&icon=0&color=3)](https://visitcount.itsvg.in)
+
+<br>
+<p align='left'>
+  
+📫 How to reach me: ***serajian.mohsen@gmail.com*** 
+
+
+  [<img src="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png#gh-light-mode-only" height="50" width="50">](https://github.com/serajian)
+</p>
+
 
 # 💻 Tech Stack:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
