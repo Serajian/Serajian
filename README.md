@@ -35,7 +35,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=serajian&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=serajian&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=serajian&limit=5&theme=dracula&combine_all_yearly_contributions=true)
