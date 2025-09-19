@@ -22,14 +22,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) <br/>
 ---
-
-![dance](https://raw.githubusercontent.com/Serajian/Serajian/main/gopher-dance-long-3x.gif)
-
----
 # 📊 GitHub Stats:
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serajian&show_icons=true&hide=css,scss,html&theme=tokyonight&layout=donut)<br/>
  
 ![](https://github-readme-stats.vercel.app/api?username=serajian&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![demo](https://raw.githubusercontent.com/Serajian/Serajian/6721dcee3f07e79f6df44ba3eff053140434f281/demo.gif)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=serajian&limit=5&theme=dracula&combine_all_yearly_contributions=true)
@@ -39,5 +36,6 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/serajian) 
 
-  
+  ![dance](https://raw.githubusercontent.com/Serajian/Serajian/main/gopher-dance-long-3x.gif)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
