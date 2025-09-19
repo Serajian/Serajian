@@ -8,7 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsen-serajian)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mohsenserajian)
 
-
 # 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) <br/>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -30,12 +29,12 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=serajian&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![dance](https://raw.githubusercontent.com/Serajian/Serajian/main/gopher-dance-long-3x.gif)
+
 
 ---
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/serajian) 
+  <!-- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/serajian) --> 
+ [![coffee](https://raw.githubusercontent.com/Serajian/Serajian/main/buy-morning-coffee-transparent.gif)](https://www.buymeacoffee.com/serajian)
 
-  ![dance](https://raw.githubusercontent.com/Serajian/Serajian/main/gopher-dance-long-3x.gif)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
